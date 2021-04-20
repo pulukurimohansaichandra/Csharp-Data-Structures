@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\bin\Debug\net5.0\1.ArrayOperations.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\bin\Debug\net5.0\1.ArrayOperations.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\bin\Debug\net5.0\1.ArrayOperations.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\bin\Debug\net5.0\1.ArrayOperations.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\bin\Debug\net5.0\1.ArrayOperations.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\bin\Debug\net5.0\ref\1.ArrayOperations.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\bin\Debug\net5.0\1.ArrayOperations.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\obj\Debug\net5.0\1.ArrayOperations.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\obj\Debug\net5.0\1.ArrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\obj\Debug\net5.0\1.ArrayOperations.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\obj\Debug\net5.0\1.ArrayOperations.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\obj\Debug\net5.0\1.ArrayOperations.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\obj\Debug\net5.0\1.ArrayOperations.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\obj\Debug\net5.0\ref\1.ArrayOperations.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\obj\Debug\net5.0\1.ArrayOperations.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\1.ArrayOperations\obj\Debug\net5.0\1.ArrayOperations.genruntimeconfig.cache
