@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\obj\Debug\net5.0\FindTheMissingNumber.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\obj\Debug\net5.0\FindTheMissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\obj\Debug\net5.0\FindTheMissingNumber.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\obj\Debug\net5.0\FindTheMissingNumber.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\obj\Debug\net5.0\FindTheMissingNumber.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\bin\Debug\net5.0\FindTheMissingNumber.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\bin\Debug\net5.0\FindTheMissingNumber.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\bin\Debug\net5.0\FindTheMissingNumber.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\bin\Debug\net5.0\FindTheMissingNumber.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\bin\Debug\net5.0\FindTheMissingNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\bin\Debug\net5.0\ref\FindTheMissingNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\bin\Debug\net5.0\FindTheMissingNumber.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\obj\Debug\net5.0\FindTheMissingNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\obj\Debug\net5.0\ref\FindTheMissingNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\obj\Debug\net5.0\FindTheMissingNumber.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\FindTheMissingNumber\obj\Debug\net5.0\FindTheMissingNumber.genruntimeconfig.cache
