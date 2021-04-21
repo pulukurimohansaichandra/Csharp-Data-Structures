@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\bin\Debug\net5.0\DuplicateNumber.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\bin\Debug\net5.0\DuplicateNumber.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\bin\Debug\net5.0\DuplicateNumber.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\bin\Debug\net5.0\DuplicateNumber.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\bin\Debug\net5.0\DuplicateNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\bin\Debug\net5.0\ref\DuplicateNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\bin\Debug\net5.0\DuplicateNumber.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\obj\Debug\net5.0\DuplicateNumber.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\obj\Debug\net5.0\DuplicateNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\obj\Debug\net5.0\DuplicateNumber.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\obj\Debug\net5.0\DuplicateNumber.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\obj\Debug\net5.0\DuplicateNumber.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\obj\Debug\net5.0\DuplicateNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\obj\Debug\net5.0\ref\DuplicateNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\obj\Debug\net5.0\DuplicateNumber.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DuplicateNumber\obj\Debug\net5.0\DuplicateNumber.genruntimeconfig.cache
