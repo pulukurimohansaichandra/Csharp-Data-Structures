@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\obj\Debug\net5.0\3.MultipleDuplicates.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\obj\Debug\net5.0\3.MultipleDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\obj\Debug\net5.0\3.MultipleDuplicates.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\obj\Debug\net5.0\3.MultipleDuplicates.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\obj\Debug\net5.0\3.MultipleDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\bin\Debug\net5.0\3.MultipleDuplicates.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\bin\Debug\net5.0\3.MultipleDuplicates.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\bin\Debug\net5.0\3.MultipleDuplicates.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\bin\Debug\net5.0\3.MultipleDuplicates.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\bin\Debug\net5.0\3.MultipleDuplicates.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\bin\Debug\net5.0\ref\3.MultipleDuplicates.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\bin\Debug\net5.0\3.MultipleDuplicates.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\obj\Debug\net5.0\3.MultipleDuplicates.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\obj\Debug\net5.0\ref\3.MultipleDuplicates.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\obj\Debug\net5.0\3.MultipleDuplicates.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\3.MultipleDuplicates\obj\Debug\net5.0\3.MultipleDuplicates.genruntimeconfig.cache

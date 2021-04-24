@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\obj\Debug\net5.0\TaskLibrary.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\obj\Debug\net5.0\TaskLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\obj\Debug\net5.0\TaskLibrary.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\obj\Debug\net5.0\TaskLibrary.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\obj\Debug\net5.0\TaskLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\bin\Debug\net5.0\TaskLibrary.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\bin\Debug\net5.0\TaskLibrary.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\bin\Debug\net5.0\TaskLibrary.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\bin\Debug\net5.0\TaskLibrary.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\bin\Debug\net5.0\TaskLibrary.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\bin\Debug\net5.0\ref\TaskLibrary.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\bin\Debug\net5.0\TaskLibrary.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\obj\Debug\net5.0\TaskLibrary.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\obj\Debug\net5.0\ref\TaskLibrary.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\obj\Debug\net5.0\TaskLibrary.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TaskLibrary\obj\Debug\net5.0\TaskLibrary.genruntimeconfig.cache

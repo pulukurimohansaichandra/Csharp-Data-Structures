@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\obj\Debug\net5.0\TwoDMatrix.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\obj\Debug\net5.0\TwoDMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\obj\Debug\net5.0\TwoDMatrix.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\obj\Debug\net5.0\TwoDMatrix.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\obj\Debug\net5.0\TwoDMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\bin\Debug\net5.0\TwoDMatrix.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\bin\Debug\net5.0\TwoDMatrix.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\bin\Debug\net5.0\TwoDMatrix.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\bin\Debug\net5.0\TwoDMatrix.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\bin\Debug\net5.0\TwoDMatrix.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\bin\Debug\net5.0\ref\TwoDMatrix.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\bin\Debug\net5.0\TwoDMatrix.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\obj\Debug\net5.0\TwoDMatrix.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\obj\Debug\net5.0\ref\TwoDMatrix.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\obj\Debug\net5.0\TwoDMatrix.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDMatrix\obj\Debug\net5.0\TwoDMatrix.genruntimeconfig.cache

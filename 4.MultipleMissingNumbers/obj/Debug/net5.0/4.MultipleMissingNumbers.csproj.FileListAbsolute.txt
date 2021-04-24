@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\obj\Debug\net5.0\4.MultipleMissingNumbers.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\obj\Debug\net5.0\4.MultipleMissingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\obj\Debug\net5.0\4.MultipleMissingNumbers.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\obj\Debug\net5.0\4.MultipleMissingNumbers.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\obj\Debug\net5.0\4.MultipleMissingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\bin\Debug\net5.0\4.MultipleMissingNumbers.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\bin\Debug\net5.0\4.MultipleMissingNumbers.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\bin\Debug\net5.0\4.MultipleMissingNumbers.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\bin\Debug\net5.0\4.MultipleMissingNumbers.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\bin\Debug\net5.0\4.MultipleMissingNumbers.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\bin\Debug\net5.0\ref\4.MultipleMissingNumbers.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\bin\Debug\net5.0\4.MultipleMissingNumbers.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\obj\Debug\net5.0\4.MultipleMissingNumbers.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\obj\Debug\net5.0\ref\4.MultipleMissingNumbers.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\obj\Debug\net5.0\4.MultipleMissingNumbers.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\4.MultipleMissingNumbers\obj\Debug\net5.0\4.MultipleMissingNumbers.genruntimeconfig.cache
