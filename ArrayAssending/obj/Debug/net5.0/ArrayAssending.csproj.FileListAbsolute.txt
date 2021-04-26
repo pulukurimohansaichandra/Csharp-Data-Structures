@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\obj\Debug\net5.0\ArrayAssending.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\obj\Debug\net5.0\ArrayAssending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\obj\Debug\net5.0\ArrayAssending.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\obj\Debug\net5.0\ArrayAssending.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\obj\Debug\net5.0\ArrayAssending.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\bin\Debug\net5.0\ArrayAssending.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\bin\Debug\net5.0\ArrayAssending.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\bin\Debug\net5.0\ArrayAssending.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\bin\Debug\net5.0\ArrayAssending.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\bin\Debug\net5.0\ArrayAssending.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\bin\Debug\net5.0\ref\ArrayAssending.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\bin\Debug\net5.0\ArrayAssending.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\obj\Debug\net5.0\ArrayAssending.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\obj\Debug\net5.0\ref\ArrayAssending.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\obj\Debug\net5.0\ArrayAssending.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ArrayAssending\obj\Debug\net5.0\ArrayAssending.genruntimeconfig.cache

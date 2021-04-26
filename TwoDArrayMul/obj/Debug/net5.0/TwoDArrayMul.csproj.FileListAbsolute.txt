@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\obj\Debug\net5.0\TwoDArrayMul.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\obj\Debug\net5.0\TwoDArrayMul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\obj\Debug\net5.0\TwoDArrayMul.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\obj\Debug\net5.0\TwoDArrayMul.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\obj\Debug\net5.0\TwoDArrayMul.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\bin\Debug\net5.0\TwoDArrayMul.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\bin\Debug\net5.0\TwoDArrayMul.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\bin\Debug\net5.0\TwoDArrayMul.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\bin\Debug\net5.0\TwoDArrayMul.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\bin\Debug\net5.0\TwoDArrayMul.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\bin\Debug\net5.0\ref\TwoDArrayMul.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\bin\Debug\net5.0\TwoDArrayMul.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\obj\Debug\net5.0\TwoDArrayMul.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\obj\Debug\net5.0\ref\TwoDArrayMul.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\obj\Debug\net5.0\TwoDArrayMul.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\TwoDArrayMul\obj\Debug\net5.0\TwoDArrayMul.genruntimeconfig.cache

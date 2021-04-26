@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\obj\Debug\net5.0\UserDataBase.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\obj\Debug\net5.0\UserDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\obj\Debug\net5.0\UserDataBase.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\obj\Debug\net5.0\UserDataBase.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\obj\Debug\net5.0\UserDataBase.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\bin\Debug\net5.0\UserDataBase.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\bin\Debug\net5.0\UserDataBase.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\bin\Debug\net5.0\UserDataBase.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\bin\Debug\net5.0\UserDataBase.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\bin\Debug\net5.0\UserDataBase.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\bin\Debug\net5.0\ref\UserDataBase.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\bin\Debug\net5.0\UserDataBase.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\obj\Debug\net5.0\UserDataBase.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\obj\Debug\net5.0\ref\UserDataBase.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\obj\Debug\net5.0\UserDataBase.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\UserDataBase\obj\Debug\net5.0\UserDataBase.genruntimeconfig.cache
