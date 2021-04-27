@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\obj\Debug\net5.0\MinanMaxnumber.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\obj\Debug\net5.0\MinanMaxnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\obj\Debug\net5.0\MinanMaxnumber.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\obj\Debug\net5.0\MinanMaxnumber.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\obj\Debug\net5.0\MinanMaxnumber.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\bin\Debug\net5.0\MinanMaxnumber.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\bin\Debug\net5.0\MinanMaxnumber.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\bin\Debug\net5.0\MinanMaxnumber.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\bin\Debug\net5.0\MinanMaxnumber.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\bin\Debug\net5.0\MinanMaxnumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\bin\Debug\net5.0\ref\MinanMaxnumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\bin\Debug\net5.0\MinanMaxnumber.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\obj\Debug\net5.0\MinanMaxnumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\obj\Debug\net5.0\ref\MinanMaxnumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\obj\Debug\net5.0\MinanMaxnumber.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\MinanMaxnumber\obj\Debug\net5.0\MinanMaxnumber.genruntimeconfig.cache
