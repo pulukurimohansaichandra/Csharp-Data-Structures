@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\obj\Debug\net5.0\AddingUser.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\obj\Debug\net5.0\AddingUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\obj\Debug\net5.0\AddingUser.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\obj\Debug\net5.0\AddingUser.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\obj\Debug\net5.0\AddingUser.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\bin\Debug\net5.0\AddingUser.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\bin\Debug\net5.0\AddingUser.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\bin\Debug\net5.0\AddingUser.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\bin\Debug\net5.0\AddingUser.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\bin\Debug\net5.0\AddingUser.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\bin\Debug\net5.0\ref\AddingUser.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\bin\Debug\net5.0\AddingUser.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\obj\Debug\net5.0\AddingUser.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\obj\Debug\net5.0\ref\AddingUser.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\obj\Debug\net5.0\AddingUser.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\AddingUser\obj\Debug\net5.0\AddingUser.genruntimeconfig.cache
