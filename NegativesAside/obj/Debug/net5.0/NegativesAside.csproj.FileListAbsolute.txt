@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\obj\Debug\net5.0\NegativesAside.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\obj\Debug\net5.0\NegativesAside.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\obj\Debug\net5.0\NegativesAside.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\obj\Debug\net5.0\NegativesAside.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\obj\Debug\net5.0\NegativesAside.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\bin\Debug\net5.0\NegativesAside.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\bin\Debug\net5.0\NegativesAside.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\bin\Debug\net5.0\NegativesAside.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\bin\Debug\net5.0\NegativesAside.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\bin\Debug\net5.0\NegativesAside.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\bin\Debug\net5.0\ref\NegativesAside.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\bin\Debug\net5.0\NegativesAside.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\obj\Debug\net5.0\NegativesAside.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\obj\Debug\net5.0\ref\NegativesAside.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\obj\Debug\net5.0\NegativesAside.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\NegativesAside\obj\Debug\net5.0\NegativesAside.genruntimeconfig.cache
