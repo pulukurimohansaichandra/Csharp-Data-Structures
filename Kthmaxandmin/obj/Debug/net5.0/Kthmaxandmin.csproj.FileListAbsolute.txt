@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\obj\Debug\net5.0\Kthmaxandmin.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\obj\Debug\net5.0\Kthmaxandmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\obj\Debug\net5.0\Kthmaxandmin.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\obj\Debug\net5.0\Kthmaxandmin.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\obj\Debug\net5.0\Kthmaxandmin.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\bin\Debug\net5.0\Kthmaxandmin.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\bin\Debug\net5.0\Kthmaxandmin.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\bin\Debug\net5.0\Kthmaxandmin.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\bin\Debug\net5.0\Kthmaxandmin.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\bin\Debug\net5.0\Kthmaxandmin.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\bin\Debug\net5.0\ref\Kthmaxandmin.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\bin\Debug\net5.0\Kthmaxandmin.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\obj\Debug\net5.0\Kthmaxandmin.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\obj\Debug\net5.0\ref\Kthmaxandmin.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\obj\Debug\net5.0\Kthmaxandmin.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\Kthmaxandmin\obj\Debug\net5.0\Kthmaxandmin.genruntimeconfig.cache

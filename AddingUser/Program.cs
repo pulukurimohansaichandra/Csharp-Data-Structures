@@ -63,9 +63,9 @@ namespace AddingUser
 
 
 
-
+  
                     if (str3 > str4)
-                    {
+                    {  
                         string temp;
                         temp = user[counter1];
                         user[counter1] = user[counter];
