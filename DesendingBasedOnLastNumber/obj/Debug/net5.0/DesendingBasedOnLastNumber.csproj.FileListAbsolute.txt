@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\bin\Debug\net5.0\DesendingBasedOnLastNumber.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\bin\Debug\net5.0\DesendingBasedOnLastNumber.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\bin\Debug\net5.0\DesendingBasedOnLastNumber.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\bin\Debug\net5.0\DesendingBasedOnLastNumber.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\bin\Debug\net5.0\DesendingBasedOnLastNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\bin\Debug\net5.0\ref\DesendingBasedOnLastNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\bin\Debug\net5.0\DesendingBasedOnLastNumber.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\obj\Debug\net5.0\DesendingBasedOnLastNumber.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\obj\Debug\net5.0\DesendingBasedOnLastNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\obj\Debug\net5.0\DesendingBasedOnLastNumber.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\obj\Debug\net5.0\DesendingBasedOnLastNumber.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\obj\Debug\net5.0\DesendingBasedOnLastNumber.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\obj\Debug\net5.0\DesendingBasedOnLastNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\obj\Debug\net5.0\ref\DesendingBasedOnLastNumber.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\obj\Debug\net5.0\DesendingBasedOnLastNumber.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\DesendingBasedOnLastNumber\obj\Debug\net5.0\DesendingBasedOnLastNumber.genruntimeconfig.cache

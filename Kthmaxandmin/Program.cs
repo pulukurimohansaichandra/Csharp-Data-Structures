@@ -54,7 +54,7 @@ namespace Kthmaxandmin
         {
             Console.WriteLine("Enter the Kth max number in the array");
             int k = int.Parse(Console.ReadLine());
-            int kthmax = userarray[(usersize - 1) - k];
+            int kthmax = userarray[(usersize ) - k];
             return kthmax;
         }
 
@@ -62,7 +62,7 @@ namespace Kthmaxandmin
         {
             Console.WriteLine("Enter the Kth min number in the array");
             int k = int.Parse(Console.ReadLine());
-            int kthmin = userarray[k - 1];
+            int kthmin = userarray[k-1];
             return kthmin;
         }
 

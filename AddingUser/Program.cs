@@ -47,7 +47,7 @@ namespace AddingUser
             for (counter = 0; counter < (usernewsize + usersize); counter++)
             {
 
-               // str1 = user[counter][0];
+                // str1 = user[counter][0];
                 //str3 = (int)str1;
 
 
@@ -63,9 +63,9 @@ namespace AddingUser
 
 
 
-  
+
                     if (str3 > str4)
-                    {  
+                    {
                         string temp;
                         temp = user[counter1];
                         user[counter1] = user[counter];

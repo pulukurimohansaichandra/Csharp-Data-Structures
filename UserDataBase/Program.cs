@@ -92,7 +92,7 @@ namespace UserDataBase
 
                 }
 
-
+                Console.WriteLine();
                 Console.WriteLine("Do You Login Again ");
                 UserChoice = char.Parse(Console.ReadLine());
 

@@ -7,7 +7,7 @@ namespace NegativesAside
 
         static int counter = 0;
 
-        static int counter1 = 0;
+        //static int counter1 = 0;
         static void Main(string[] args)
         {
             Console.WriteLine("Enter the number of elements");
@@ -30,25 +30,28 @@ namespace NegativesAside
 
         static void NegativeNumbersASide(int[] userarray, int userSize)
         {
-
-            int temp = 0;
+            int[] duparray = new int[userSize];
+            int temp = userSize - 1;
+            int temp1 = 0;
             for (counter = 0; counter < userSize; counter++)
             {
-                for (counter1 =counter+1; counter1 < userSize; counter1++)
+                if (userarray[counter] < 0)
                 {
-                    if ( userarray[counter]<0)
-                    {
-                        temp = userarray[counter];
-                        userarray[counter] = userarray[counter1];
-                        userarray[counter1] = temp;
-                    }
-                }
+                    duparray[temp1] = userarray[counter];
+                    temp1++;
 
+                }
+                else
+                {
+                    duparray[temp] = userarray[counter];
+                    temp--;
+
+                }
             }
             Console.WriteLine("The alterd elements are");
-            for (counter = userSize-1; counter >= 0; counter--)
+            for (counter = 0; counter < userSize; counter++)
             {
-                Console.Write(" "+userarray[counter]);
+                Console.Write(" " + duparray[counter]);
             }
         }
 
