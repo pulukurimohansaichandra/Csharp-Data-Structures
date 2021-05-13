@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\bin\Debug\net5.0\ListTask.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\bin\Debug\net5.0\ListTask.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\bin\Debug\net5.0\ListTask.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\bin\Debug\net5.0\ListTask.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\bin\Debug\net5.0\ListTask.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\bin\Debug\net5.0\ref\ListTask.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\bin\Debug\net5.0\ListTask.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\obj\Debug\net5.0\ListTask.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\obj\Debug\net5.0\ListTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\obj\Debug\net5.0\ListTask.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\obj\Debug\net5.0\ListTask.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\obj\Debug\net5.0\ListTask.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\obj\Debug\net5.0\ListTask.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\obj\Debug\net5.0\ref\ListTask.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\obj\Debug\net5.0\ListTask.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\ListTask\obj\Debug\net5.0\ListTask.genruntimeconfig.cache

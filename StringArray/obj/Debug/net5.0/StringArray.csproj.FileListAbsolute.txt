@@ -1,0 +1,16 @@
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\obj\Debug\net5.0\StringArray.csprojAssemblyReference.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\obj\Debug\net5.0\StringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\obj\Debug\net5.0\StringArray.AssemblyInfoInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\obj\Debug\net5.0\StringArray.AssemblyInfo.cs
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\obj\Debug\net5.0\StringArray.csproj.CoreCompileInputs.cache
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\bin\Debug\net5.0\StringArray.exe
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\bin\Debug\net5.0\StringArray.deps.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\bin\Debug\net5.0\StringArray.runtimeconfig.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\bin\Debug\net5.0\StringArray.runtimeconfig.dev.json
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\bin\Debug\net5.0\StringArray.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\bin\Debug\net5.0\ref\StringArray.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\bin\Debug\net5.0\StringArray.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\obj\Debug\net5.0\StringArray.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\obj\Debug\net5.0\ref\StringArray.dll
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\obj\Debug\net5.0\StringArray.pdb
+C:\Users\Mohan Sai Chandra .P\Dot net course\DataStructures\StringArray\obj\Debug\net5.0\StringArray.genruntimeconfig.cache
